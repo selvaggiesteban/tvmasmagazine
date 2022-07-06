@@ -444,7 +444,7 @@ ul.social li {
 .grid-40-col-2 {
   margin: 0 10px 10px 10px;
 }
-@media screen and (min-width: 992px {
+@media screen and (min-width: 992px) {
 .grid-60 {
   margin: 10px 0 10px 10px !important;
 }
