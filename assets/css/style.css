@@ -433,8 +433,10 @@ ul.social li {
   cursor: pointer;
   transform: none;
 }
+@media screen and (max-width: 991.98px) {
 .grid-60 {
-  margin: 10px 10px 10px 10px;
+  margin: 10px 10px 10px 10px !important;
+}
 }
 .grid-40-col {
   margin: 0px 10px 0px 10px;
