@@ -582,8 +582,7 @@ ul.social li {
 }
 @media screen and (max-width: 991.98px) {
   .carousel-content {
-    height: 500px;
-    background-size: contain !important;
+    height: 550px;
   }
 }
 /* Carousel slick-carousel-2 publicidad vertical */
